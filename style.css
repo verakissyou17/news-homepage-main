@@ -261,7 +261,7 @@ svg {
 @media screen and (min-width: 750px) {
   .header {
     max-width: 1150px;
-    margin-block: 2.5em;
+    margin-block: 3em;
   }
 
   .homepage-logo {
